@@ -1,4 +1,4 @@
-#Javascript Framework & Libraries
+#Javascript Frameworks & Libraries
 
 ## Select[ivizr]
 > [http://selectivizr.com](http://selectivizr.com/)
