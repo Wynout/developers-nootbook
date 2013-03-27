@@ -1,4 +1,4 @@
-#Javascript Frameworks & Libraries
+#JavaScript Frameworks & Libraries
 
 ## Select[ivizr]
 > [http://selectivizr.com](http://selectivizr.com/)
@@ -16,3 +16,6 @@ selectivizr is a JavaScript utility that emulates CSS3 pseudo-classes and attrib
 Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
 Taking advantage of cool new web technologies is great fun, until you have to support browsers that lag behind. Modernizr makes it easy for you to write conditional JavaScript and CSS to handle each situation, whether a browser supports a feature or not. It’s perfect for doing progressive enhancement easily.
 
+## Prototype
+>[http://prototypejs.org](http://prototypejs.org/)
+Prototype takes the complexity out of client-side web programming. Built to solve real-world problems, it adds useful extensions to the browser scripting environment and provides elegant APIs around the clumsy interfaces of Ajax and the Document Object Model.
