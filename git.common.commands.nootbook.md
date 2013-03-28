@@ -14,7 +14,7 @@ This commands returns for example:
 		+[Questions?](http://lmgtfy.com/?q=I+have+questions%2C+show+me+the+answers)
 
 
-### Tried to push, but remote already has remote changes
+### Tried to push, but remote already has changes
 
 >$ git push
 
