@@ -18,5 +18,6 @@ for mac
 ### Set layout columns splitview
 for windows/linux
 > $ alt + shift + 1-2-3-4-5
+
 for mac
 > $ please insert command for mac here
