@@ -16,6 +16,8 @@ HTML is great for declaring static documents, but it falters when we try to use 
 ## jQuery
 * [tuts+ ::  Hello jQuery](https://tutsplus.com/lesson/hello-jquery/)
 
+Someone, please add more content here.. we can do much better
+
 ## Dojo Toolkit
 [http://dojotoolkit.org](http://dojotoolkit.org/)
 Dojo saves you time and scales with your development process, using web standards as its platform. It’s the toolkit experienced developers turn to for building high quality desktop and mobile web applications.
