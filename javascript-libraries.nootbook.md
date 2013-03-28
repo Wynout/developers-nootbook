@@ -47,8 +47,14 @@ Interactive Javascript charts for your webprojects
 
 ## Google Chart Tools
 > [https://developers.google.com/chart](https://developers.google.com/chart/)
+Completely free and with 3 years backward compatability guaranteed
 
-## JustGage
+## Dojo Toolkit - Graphics & Charting
+> [http://dojotoolkit.org/features/graphics-and-charting](http://dojotoolkit.org/features/graphics-and-charting)
+Cross Platform Vector Graphics
+GFX provides a cross-browser high-level graphics API that hides the browser rendering engine specificities, and supports a wide range of technologies out of the box (SVG, VML, Canvas, Silverlight and SVGWeb), both on the desktop or mobile. When the application is loaded, GFX selects the best graphics engine implementation to use depending on the browser capabilities.
+
+## JustGage - animating gauges
 > [http://justgage.com](http://justgage.com/)
 JustGage is a handy JavaScript plugin for generating and animating nice & clean gauges. It is based on Raphaël library for vector drawing, so it’s completely resolution independent and self-adjusting.
 Oh yes, since it’s pure SVG, it works in almost any browser - IE6+, Chrome, Firefox, Safari, Opera, Android, etc.
