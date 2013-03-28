@@ -52,8 +52,11 @@ Now we can push our changes to the remote origin:
 
 Mission accomplished. Done.
 
-### Don't want to commit changes now, but change branch? - Git Stash
-Stash the changes
+### Don't want to commit half-done work, but change branch?
+##Git Stash
+
+Often, when you’ve been working on part of your project, things are in a messy state and you want to switch branches for a bit to work on something else. The problem is, you don’t want to do a commit of half-done work just so you can get back to this point later. The answer to this issue is the git stash command.
+
 [http://git-scm.com/book/en/Git-Tools-Stashing](http://git-scm.com/book/en/Git-Tools-Stashing)
 
 >$ git stash
@@ -62,7 +65,7 @@ To see the list of stashes you stored:
 >$ git stash list
 
 	stash@{0}: WIP on master: 3a512ee Add link setting up sublime text for PHP dev
-	stash@{1}: WIP on master: 1418cbe Fixed type, again... Think McFly Think!.
+	stash@{1}: WIP on master: 1418cbe Fixed typo, again... Think McFly Think!.
 	stash@{2}: WIP on master: af3e481 Removed Youtube link
 
 To apply the last stashed changes
