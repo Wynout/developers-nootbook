@@ -58,8 +58,12 @@ Stash the changes
 
 >$ git stash
 
-To see which stashed you stored:
+To see the list of stashes you stored:
 >$ git stash list
+
+	stash@{0}: WIP on master: 3a512ee Add link setting up sublime text for PHP dev
+	stash@{1}: WIP on master: 1418cbe Fixed type, again... Think McFly Think!.
+	stash@{2}: WIP on master: af3e481 Removed Youtube link
 
 To apply the last stashed changes
 >$ git stash apply
@@ -67,7 +71,7 @@ To apply the last stashed changes
 To apply change from #2 in stash list:
 >$ git stash apply stash@{2}
 
-To remove a change in the stash list:
+To remove the change from the stash list #2:
 >$ git stash drop stash@{2}
 
 To apply the stash and immediately drop it from your stack:
