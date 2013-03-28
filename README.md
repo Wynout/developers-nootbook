@@ -1,2 +1,2 @@
 ### Move along, nothing to see here
-[Questions?](http://lmgtfy.com/?q=Move+along%2C+nothing+to+see+here)
+[Questions?](http://lmgtfy.com/?q=I+have+questions%2C+show+me+the+answers)
