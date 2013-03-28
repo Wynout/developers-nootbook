@@ -6,5 +6,17 @@
 * [Setting Up Sublime Text 2 For PHP Development](http://blog.stuartherbert.com/php/2012/02/28/setting-up-sublime-text-2-for-php-development/)
 
 ## Essential keyboard short-cut commands
-> $control+alt+p
-Switch Project in Window
+
+###Switch Project in Window
+
+for windows/linux
+> $ control + alt + p
+
+for mac
+> $ please insert command for mac here
+
+### Set layout columns splitview
+for windows/linux
+> $ alt + shift + 1-2-3-4-5
+for mac
+> $ please insert command for mac here
