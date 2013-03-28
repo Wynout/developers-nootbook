@@ -1,4 +1,6 @@
+## Git diff --cached
 ###What kind of modified files did I staged in this Git repository?
+
 >$ git diff --cached
 
 This commands returns for example:
@@ -14,6 +16,7 @@ This commands returns for example:
 		+[Questions?](http://lmgtfy.com/?q=I+have+questions%2C+show+me+the+answers)
 
 
+## Git push - non-fast-forward updates were rejected
 ### Tried to push, but remote already has changes
 
 >$ git push
@@ -52,8 +55,9 @@ Now we can push our changes to the remote origin:
 
 Mission accomplished. Done.
 
-### Don't want to commit half-done work, but change branch?
+
 ##Git Stash
+### Don't want to commit half-done work, but change branch?
 
 Often, when you’ve been working on part of your project, things are in a messy state and you want to switch branches for a bit to work on something else. The problem is, you don’t want to do a commit of half-done work just so you can get back to this point later. The answer to this issue is the git stash command.
 
