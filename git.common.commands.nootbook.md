@@ -62,7 +62,7 @@ To see which stashed you stored:
 >$ git stash list
 
 To apply the last stashed changes
->$ git stash
+>$ git stash apply
 
 To apply change from #2 in stash list:
 >$ git stash apply stash@{2}
