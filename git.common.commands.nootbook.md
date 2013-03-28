@@ -1,7 +1,7 @@
 ###What kind of modified files did I stage in this Git repository?
 >$ git diff --cached
 
-this commands returns for example:
+$ this commands returns for example:
 
 		$~/repos/developers-nootbook.github$ git diff --cached
 		diff --git a/README.md b/README.md
