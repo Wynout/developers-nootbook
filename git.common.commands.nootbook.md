@@ -59,13 +59,13 @@ Mission accomplished. Done.
 ##Git Stash
 ### Don't want to commit half-done work, but change branch?
 
-Often, when you’ve been working on part of your project, things are in a messy state and you want to switch branches for a bit to work on something else. The problem is, you don’t want to do a commit of half-done work just so you can get back to this point later. The answer to this issue is the git stash command.
-
 [http://git-scm.com/book/en/Git-Tools-Stashing](http://git-scm.com/book/en/Git-Tools-Stashing)
+
+Often, when you’ve been working on part of your project, things are in a messy state and you want to switch branches for a bit to work on something else. The problem is, you don’t want to do a commit of half-done work just so you can get back to this point later. The answer to this issue is the git stash command.
 
 >$ git stash
 
-To see the list of stashes you stored:
+To see the list of stashed changes you stored:
 >$ git stash list
 
 	stash@{0}: WIP on master: 3a512ee Add link setting up sublime text for PHP dev

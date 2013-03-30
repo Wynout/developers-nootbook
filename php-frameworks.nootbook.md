@@ -6,3 +6,4 @@ Laravel is a powerful framework that emphasizes flexibility and expressiveness. 
 * [Youtube - login and registration page using Laravel + Bootstrap: Part 1](http://www.youtube.com/watch?v=9Nt8urdHDrs)
 * [Youtube - login and registration page using Laravel + Bootstrap: Part 2](http://www.youtube.com/watch?v=Xboc_av94R8)
 * [Screenr - Screencasts on Laravel](http://www.screenr.com/user/laravel)
+* [Setup Pongo CMS, Laravel 3.2 CMS with Bootstrap](http://www.youtube.com/watch?v=1J_oeKjPM4Y)

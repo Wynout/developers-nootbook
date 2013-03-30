@@ -23,12 +23,22 @@ Someone, please add more content here.. we can do much better
 Dojo saves you time and scales with your development process, using web standards as its platform. It’s the toolkit experienced developers turn to for building high quality desktop and mobile web applications.
 From simple websites to large packaged enterprise applications whether desktop or mobile, Dojo will meet your needs.
 
+## Ext JS
+> [http://www.sencha.com/products/extjs](http://www.sencha.com/products/extjs/)
+JavaScript Framework
+Sencha Ext JS is the leading standard for business-grade web application development. With over 100 examples, 1000 APIs, hundreds of components, a full documentation suite and built in themes, Ext JS provides the tools necessary to build robust desktop applications.
+
 ## Backbone.js
 > RESTful JSON interface - model-view-presenter
 * http://www.codeschool.com/courses/anatomy-of-backbonejs
 
+## MooTools
+>[http://mootools.net](http://mootools.net/)
+MooTools is a compact, modular, Object-Oriented JavaScript framework designed for the intermediate to advanced JavaScript developer. It allows you to write powerful, flexible, and cross-browser code with its elegant, well documented, and coherent API.
+
 ## Prototype
 >[http://prototypejs.org](http://prototypejs.org/)
+Javascript Framework.
 Prototype takes the complexity out of client-side web programming. Built to solve real-world problems, it adds useful extensions to the browser scripting environment and provides elegant APIs around the clumsy interfaces of Ajax and the Document Object Model.
 
 ## Modernizr
