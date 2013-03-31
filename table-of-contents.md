@@ -2,7 +2,9 @@
 
 ## PHP frameworks
 * [Laravel](php-frameworks.nootbook.md#laravel)
-
+* [Codeigniter](php-frameworks.nootbook.md#codeigniter)
+* [CakePHP](php-frameworks.nootbook.md#cakephp)
+* [ZendFramework](php-frameworks.nootbook.md#zendframework)
 
 
 ## Sublime Text 2
