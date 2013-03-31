@@ -14,6 +14,7 @@ Laravel is a powerful framework that emphasizes flexibility and expressiveness. 
 ## CodeIgniter
 > [http://ellislab.com/codeigniter](http://ellislab.com/codeigniter)
 CodeIgniter is an Application Development Framework - a toolkit - for people who build web sites using PHP. Its goal is to enable you to develop projects much faster than you could if you were writing code from scratch, by providing a rich set of libraries for commonly needed tasks, as well as a simple interface and logical structure to access these libraries. CodeIgniter lets you creatively focus on your project by minimizing the amount of code needed for a given task.
+* [17-part video serie covering everything you need to know about CodeIgniter](http://net.tutsplus.com/sessions/codeigniter-from-scratch/)
 
 
 -------------------
@@ -21,3 +22,7 @@ CodeIgniter is an Application Development Framework - a toolkit - for people who
 ## CakePHP
 > [http://cakephp.org](http://cakephp.org/)
 CakePHP is a rapid development framework for PHP which uses commonly known design patterns like ActiveRecord, Association Data Mapping, Front Controller and MVC. Our primary goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
+
+## ZendFramework
+[http://framework.zend.com](http://framework.zend.com/)
+Zend Framework 2 is an open source framework for developing web applications and services using PHP 5.3+. Zend Framework 2 uses 100% object-oriented code and utilises most of the new features of PHP 5.3, namely namespaces, late static binding, lambda functions and closures....
