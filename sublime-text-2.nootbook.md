@@ -7,13 +7,15 @@
 
 ## Essential keyboard shortcut commands
 
-###Switch Project in Window
+### Switch Project in Window
 
 for windows/linux
 > $ Control + Alt + p
 
 for mac
 > $ please insert command for mac here
+
+--------------------------
 
 ### Set layout columns splitview
 for windows/linux
@@ -22,9 +24,25 @@ for windows/linux
 for mac
 > $ please insert command for mac here
 
+--------------------------
+
 ### Switch between opened files in tabs
 for windows/linux
 > $ Control + PageUp or Control + PageDown
 
 for mac
 > $ please insert command for mac here
+
+--------------------------
+
+### Expand selection
+
+Select between brackets (select me) or [or select me] or <or select me> etc etc.
+
+for windows/linux
+> $ Control + Shift + Space
+
+for mac
+> $ please insert command for mac here
+
+--------------------------
