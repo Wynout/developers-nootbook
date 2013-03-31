@@ -10,21 +10,21 @@
 ###Switch Project in Window
 
 for windows/linux
-> $ control + alt + p
+> $ Control + Alt + p
 
 for mac
 > $ please insert command for mac here
 
 ### Set layout columns splitview
 for windows/linux
-> $ alt + shift + 1-2-3-4-5
+> $ Alt + Shift + 1-2-3-4-5
 
 for mac
 > $ please insert command for mac here
 
 ### Switch between opened files in tabs
 for windows/linux
-> $ control + pageup or control + pagedown
+> $ Control + PageUp or Control + PageDown
 
 for mac
 > $ please insert command for mac here
