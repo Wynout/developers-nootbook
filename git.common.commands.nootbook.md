@@ -1,5 +1,7 @@
+# Git common commands
+
 ## Git diff --cached
-###What kind of modified files did I staged in this Git repository?
+**What kind of modified files did I staged in this Git repository?**
 
 >$ git diff --cached
 
@@ -17,7 +19,7 @@ This commands returns for example:
 
 
 ## Git push - non-fast-forward updates were rejected
-### Tried to push, but remote already has changes
+**Tried to push, but remote already has changes**
 
 >$ git push
 
@@ -56,8 +58,8 @@ Now we can push our changes to the remote origin:
 Mission accomplished. Done.
 
 
-##Git Stash
-### Don't want to commit half-done work, but change branch?
+## Git Stash
+Don't want to commit half-done work, but change branch?
 
 [http://git-scm.com/book/en/Git-Tools-Stashing](http://git-scm.com/book/en/Git-Tools-Stashing)
 
