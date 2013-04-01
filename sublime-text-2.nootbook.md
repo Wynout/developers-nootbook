@@ -14,8 +14,10 @@
 | Switch between open files in tabs | Control + PageUp, Control + PageDown | *Insert shortcut here* |
 | Expand selection between brackets [],() | Control + Shift + Space | *Insert shortcut here* |
 | Toggle comment | Control + / | *Insert shortcut here* |
-| Toggle comment block | Control + Shift + / | *Insert shortcut here* |
+| Toggle comment block HTML| Control + Shift + / | *Insert shortcut here* |
 | Join lines | Control + j | *Insert shortcut here* |
 | Duplicate line | Control + Shift + d | *Insert shortcut here* |
 
 > find_under_expand : ctrl+d
+
+[Table of Contents](TABLE-OF-CONTENTS.md#sublime-text-2)
