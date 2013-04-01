@@ -49,17 +49,27 @@ jsFiddle is a free code-sharing tool that allows you to edit, share, execute and
 * [http://jsfiddle.net/simurai/CGmCe/light/](http://jsfiddle.net/simurai/CGmCe/light/)
 * [Easy Web Development with jsFiddle](http://visualstudiomagazine.com/articles/2012/01/10/easy-web-development-with-jsfiddle.aspx)
 
+[Table of Contents](TABLE-OF-CONTENTS.md#html--css)
+
+---------------------------
+
 ## Codepen
-[http://codepen.io/](http://codepen.io/)
-[Video screencast - using codepen](http://css-tricks.com/video-screencasts/112-using-codepen/)
+CodePen is an app for sharing and playing around with front end code.
+* [http://codepen.io/](http://codepen.io/)
+* [Video screencast - using codepen](http://css-tricks.com/video-screencasts/112-using-codepen/)
+
+[Table of Contents](TABLE-OF-CONTENTS.md#html--css)
+
+---------------------------
 
 ## JS Bin
 [http://jsbin.com/welcome/1/edit](http://jsbin.com/welcome/1/edit)
+
 JS Bin is a webapp specifically designed to help JavaScript and CSS folk test snippets of code, within some context, and debug the code collaboratively.
 
 JS Bin allows you to edit and test JavaScript and HTML (reloading the URL also maintains the state of your code - new tabs doesn’t). Once you’re happy you can save, and send the URL to a peer for review or help. They can then make further changes saving anew if required.
 
-The original idea spawned from a conversation with another developer in trying to help him debug an Ajax issue. The original aim was to build it using Google’s app engine, but in the end, it was John Resig’s Learning app that inspired me to build the whole solution in JavaScript with liberal dashes of jQuery and a tiny bit of LAMP for the saving process.
+[Table of Contents](TABLE-OF-CONTENTS.md#html--css)
 
 ---------------------------
 
