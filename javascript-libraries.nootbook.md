@@ -16,7 +16,18 @@ HTML is great for declaring static documents, but it falters when we try to use 
 ## jQuery
 * [tuts+ ::  Hello jQuery](https://tutsplus.com/lesson/hello-jquery/)
 
-Someone, please add more content here.. we can do much better
+## jQuery UI
+[http://jqueryui.com](http://jqueryui.com/)
+jQuery UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library. Whether you're building highly interactive web applications or you just need to add a date picker to a form control, jQuery UI is the perfect choice.
+
+## Sizzle JS
+[http://sizzlejs.com](http://sizzlejs.com/)
+A pure-JavaScript CSS selector engine designed to be easily dropped in to a host library.
+
+## jQuery Mobile
+[http://jquerymobile.com](http://jquerymobile.com/)
+jQuery Mobile is a touch-optimized web framework (additionally known as a JavaScript library or a mobile framework) currently being developed by the jQuery project team. The development focuses on creating a framework compatible with a wide variety of smartphones and tablet computers,[2] made necessary by the growing but heterogeneous tablet and smartphone market.[3] The jQuery Mobile framework is compatible with other mobile app frameworks and platforms such as PhoneGap, Worklight[4] and more.
+
 
 ## Dojo Toolkit
 [http://dojotoolkit.org](http://dojotoolkit.org/)
