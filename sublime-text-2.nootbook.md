@@ -7,42 +7,15 @@
 
 ## Essential keyboard shortcut commands
 
-### Switch Project in Window
+| Description  | Linux/Windows Keyboard Shortcut | Mac Keyboard Shortcut |
+| :------------ | :-----------: |  :----------- |
+| Switch Project in Window | Control + Alt + p | *Insert shortcut here* |
+| Set layout columns splitview | Alt + Shift + 1-2-3-4-5 | *Insert shortcut here* |
+| Switch between open files in tabs | Control + PageUp, Control + PageDown | *Insert shortcut here* |
+| Expand selection between brackets [],() | Control + Shift + Space | *Insert shortcut here* |
+| Toggle comment | Control + / | *Insert shortcut here* |
+| Toggle comment block | Control + Shift + / | *Insert shortcut here* |
+| Join lines | Control + j | *Insert shortcut here* |
+| Duplicate line | Control + Shift + d | *Insert shortcut here* |
 
-for windows/linux
-> $ Control + Alt + p
-
-for mac
-> $ please insert command for mac here
-
---------------------------
-
-### Set layout columns splitview
-for windows/linux
-> $ Alt + Shift + 1-2-3-4-5
-
-for mac
-> $ please insert command for mac here
-
---------------------------
-
-### Switch between opened files in tabs
-for windows/linux
-> $ Control + PageUp or Control + PageDown
-
-for mac
-> $ please insert command for mac here
-
---------------------------
-
-### Expand selection
-
-Select between brackets (select me) or [or select me] or <or select me> etc etc.
-
-for windows/linux
-> $ Control + Shift + Space
-
-for mac
-> $ please insert command for mac here
-
---------------------------
+> find_under_expand : ctrl+d
