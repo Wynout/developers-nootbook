@@ -4,7 +4,11 @@
 * [HTML * Boilerplate](html-css.nootbook.md#html5-boilerplate)
 * [Normalize.css](html-css.nootbook.md#normalizecss)
 * [Bootstrap](html-css.nootbook.md#bootstrap)
+* [WebFont Loader](html-css.nootbook.md#webfont-loader)
 * [formalize](html-css.nootbook.md#formalize)
+* [jsFiddle](html-css.nootbook.md#jsfiddle)
+* [Codepen](html-css.nootbook.md#codepen)
+* [JS Bin](html-css.nootbook.md#js-bin)
 * [Agave](html-css.nootbook.md#agave)
 
 ## PHP frameworks
