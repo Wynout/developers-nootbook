@@ -1,7 +1,7 @@
 # Git common commands
 
 ## Git diff --cached
-**What kind of modified files did I staged in this Git repository?**
+**What kind of modified files did I stage in this Git repository?**
 
 >$ git diff --cached
 
