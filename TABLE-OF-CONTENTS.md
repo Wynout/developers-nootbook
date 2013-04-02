@@ -32,3 +32,26 @@
 
 ## Git
 [Common commands](git.common.commands.nootbook.md#git-common-commands)
+
+## JavaScript Frameworks & Libraries
+* [Google CDN](javascript-libraries.nootbook.md#google-cdn)
+* [cdnjs](javascript-libraries.nootbook.md#cdnjs)
+* [AngularJS](javascript-libraries.nootbook.md#angularjs)
+* [Meteor](javascript-libraries.nootbook.md#meteor)
+* [jQuery](javascript-libraries.nootbook.md#jquery)
+* [jQuery UI](javascript-libraries.nootbook.md#jquery-ui)
+* [Sizzle JS](javascript-libraries.nootbook.md#sizzle-js)
+* [jQuery Mobile](javascript-libraries.nootbook.md#jquery-mobile)
+* [Dojo Tookit](javascript-libraries.nootbook.md#dojo-toolkit)
+* [Ext JS](javascript-libraries.nootbook.md#ext-js)
+* [Backbone.js](javascript-libraries.nootbook.md#backbonejs)
+* [MooTools](javascript-libraries.nootbook.md#mootools)
+* [Prototype](javascript-libraries.nootbook.md#prototype)
+* [script.aculo.us](javascript-libraries.nootbook.md#scriptaculous)
+* [Modernizr](javascript-libraries.nootbook.md#modernizr)
+* [Select[ivizr]](javascript-libraries.nootbook.md#selectivizr)
+* [50 JavaScript libraries for charts and graphs](javascript-libraries.nootbook.md#50-javascript-libraries-for-charts-and-graphs)
+* [Highcharts JS](javascript-libraries.nootbook.md#highcharts-js)
+* [Google Chart Tools](javascript-libraries.nootbook.md#google-chart-tools)
+* [Dojo Toolkit - Graphics & Charting](javascript-libraries.nootbook.md#dojo-toolkit---graphics--charting)
+* [JustGage](javascript-libraries.nootbook.md#justgage)
