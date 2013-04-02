@@ -19,7 +19,8 @@
 * [ZendFramework](php-frameworks.nootbook.md#zendframework)
 
 ## Sublime Text 2
-* [Essential keyboard shortcuts](sublime-text-2.nootbook.md#essesntial-keyboard-shortcut-commands)
+* [Essential plugins](sublime-text-2.nootbook.md#essential-plugins)
+* [Essential keyboard shortcuts](sublime-text-2.nootbook.md#essential-keyboard-shortcut-commands)
 
 ## Developer Tools
 * [Chrome DevTools](developer-tools.nootbook.md#chrome-devtools)
