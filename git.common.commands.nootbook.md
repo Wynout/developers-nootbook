@@ -18,6 +18,8 @@ This commands returns for example:
 		+[Questions?](http://lmgtfy.com/?q=I+have+questions%2C+show+me+the+answers)
 
 
+-------------------------------
+
 ## Git push - non-fast-forward updates were rejected
 **Tried to push, but remote already has changes**
 
@@ -57,6 +59,7 @@ Now we can push our changes to the remote origin:
 
 Mission accomplished. Done.
 
+-------------------------------
 
 ## Git Stash
 Don't want to commit half-done work, but change branch?
@@ -85,3 +88,29 @@ To remove the change from the stash list #2:
 
 To apply the stash and immediately drop it from your stack:
 >$ git stash pop
+
+-------------------------------
+
+## Cloning
+
+[source](https://help.github.com/articles/fork-a-repo)
+
+>$ git clone https://github.com/username/Spoon-Knife.git
+
+To keep track of the original repository, you need to add another remote named *upstream*
+
+>$ git remote add upstream https://github.com/username/Spoon-Knife.git
+
+		From https://github.com/username/Spoon-Knife
+		 * [new branch]      master     -> upstream/master
+
+Fetch any new changes in from the original repository, without modifying your files
+
+>$ git fetch upstream
+
+Merge any changes fetched into your working files
+
+>$ git merge upstream/master
+
+-------------------------------
+
