@@ -7,3 +7,8 @@ Agile software development methodologies like Scrum are easy to learn, but hard 
 * [http://www.codeschool.com/code_tv/agile-best-practices](http://www.codeschool.com/code_tv/agile-best-practices)
 
 -------------
+
+## Test-driven development
+Test-driven development (TDD) is a software development process that relies on the repetition of a very short development cycle: first the developer writes an (initially failing) automated test case that defines a desired improvement or new function, then produces the minimum amount of code to pass that test, and finally refactors the new code to acceptable standards. Kent Beck, who is credited with having developed or 'rediscovered' the technique, stated in 2003 that TDD encourages simple designs and inspires confidence.
+* [Test-Driven PHP](https://tutsplus.com/course/test-driven-php/)
+* [TDD in PHP](http://net.tutsplus.com/sessions/test-driven-php/

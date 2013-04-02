@@ -62,7 +62,7 @@ Mission accomplished. Done.
 -------------------------------
 
 ## Git Stash
-Don't want to commit half-done work, but change branch?
+**Don't want to commit half-done work, but change branch?**
 
 [http://git-scm.com/book/en/Git-Tools-Stashing](http://git-scm.com/book/en/Git-Tools-Stashing)
 

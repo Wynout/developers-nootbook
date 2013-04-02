@@ -9,19 +9,19 @@
 
 ## Essential Plugins
 
-* HTTP Requester
+### HTTP Requester
 [GitHub](https://github.com/braindamageinc/SublimeHttpRequester)
 	Makes HTTP requests using the selected text as URL + headers. Useful for testing REST APIs from Sublime Text 2 editor.
 
-* DocBlockr
+### DocBlockr
 	* [YouTube example 1](http://www.youtube.com/watch?v=KzbEt9PcF_w)
 	* [YouTube example 2](http://www.youtube.com/watch?v=WaQk9QZNaOY)
 
-* Prefixr
+### Prefixr
 	Runs CSS through Prefixr API.
 	[http://wbond.net/sublime_packages/prefixr](http://wbond.net/sublime_packages/prefixr)
 
-* add more here
+### add more here
 ----------------------
 
 ## Essential keyboard shortcut commands

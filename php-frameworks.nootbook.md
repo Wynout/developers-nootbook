@@ -12,6 +12,18 @@ Laravel is a powerful framework that emphasizes flexibility and expressiveness. 
 
 -------------------
 
+## Symphony
+[http://symfony.com](http://symfony.com/)
+
+Symfony is a PHP framework.
+Symfony is a framework, a set of tools and a development methodology.
+Beyond the tools, Symfony is also a Philosophy and a Community.
+
+
+[Table of Contents](TABLE-OF-CONTENTS.md#php-frameworks)
+
+-------------------
+
 ## CodeIgniter
 [http://ellislab.com/codeigniter](http://ellislab.com/codeigniter)
 CodeIgniter is an Application Development Framework - a toolkit - for people who build web sites using PHP. Its goal is to enable you to develop projects much faster than you could if you were writing code from scratch, by providing a rich set of libraries for commonly needed tasks, as well as a simple interface and logical structure to access these libraries. CodeIgniter lets you creatively focus on your project by minimizing the amount of code needed for a given task.

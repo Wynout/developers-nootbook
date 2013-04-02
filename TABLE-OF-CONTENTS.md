@@ -11,17 +11,20 @@
 * [JS Bin](html-css.nootbook.md#js-bin)
 * [Agave](html-css.nootbook.md#agave)
 
-## PHP frameworks
+## PHP Frameworks
 * [Laravel](php-frameworks.nootbook.md#laravel)
+* [Symphony](php-frameworks.nootbook.md#symphony)
 * [Codeigniter](php-frameworks.nootbook.md#codeigniter)
 * [CakePHP](php-frameworks.nootbook.md#cakephp)
 * [ZendFramework](php-frameworks.nootbook.md#zendframework)
 
 ## Sublime Text 2
-* [Essential keyboard shortcuts](sublime-text-2.nootbook.md#essential-keyboard-shortcut-commands)
+* [Essential keyboard shortcuts](sublime-text-2.nootbook.md#essesntial-keyboard-shortcut-commands)
 
-## Chrome Devtools
-* [Chrome DevTools](chrome-dev-tools.nootbook.md#chrome-devtools)
+## Developer Tools
+* [Chrome DevTools](developer-tools.nootbook.md#chrome-devtools)
+* [jsFiddle](developer-tools.nootbook.md#jsfiddle)
+* [CodePen](developer-tools.nootbook.md#codepen)
 
 ## E-learning
 * [Overview](e-learning.nootbook.md#e-learning)

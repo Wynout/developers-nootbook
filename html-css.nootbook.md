@@ -44,24 +44,6 @@ While Formalize is primarily a CSS framework, it does rely on a bit of JavaScrip
 
 ---------------------------
 
-## jsFiddle
-jsFiddle is a free code-sharing tool that allows you to edit, share, execute and debug Web code within a browser.
-* [http://jsfiddle.net/simurai/CGmCe/light/](http://jsfiddle.net/simurai/CGmCe/light/)
-* [Easy Web Development with jsFiddle](http://visualstudiomagazine.com/articles/2012/01/10/easy-web-development-with-jsfiddle.aspx)
-
-[Table of Contents](TABLE-OF-CONTENTS.md#html--css)
-
----------------------------
-
-## Codepen
-CodePen is an app for sharing and playing around with front end code.
-* [http://codepen.io/](http://codepen.io/)
-* [Video screencast - using codepen](http://css-tricks.com/video-screencasts/112-using-codepen/)
-
-[Table of Contents](TABLE-OF-CONTENTS.md#html--css)
-
----------------------------
-
 ## JS Bin
 [http://jsbin.com/welcome/1/edit](http://jsbin.com/welcome/1/edit)
 
