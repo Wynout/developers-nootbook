@@ -18,7 +18,7 @@ Guard is a command line tool to easily handle events on file system modification
 * Uglify, minify javascript
 
 ### Installation
-* [source Tuts+](http://net.tutsplus.com/tutorials/tools-and-tips/guard-is-your-best-friend/)
+* [net Tuts+ course :: Guard is Your Best Friend](http://net.tutsplus.com/tutorials/tools-and-tips/guard-is-your-best-friend/)
 * [https://github.com/guard/guard#readme](https://github.com/guard/guard#readme)
 
 * Install Ruby ([Ruby 1.9](http://lenni.info/blog/2011/12/installing-ruby-1-9-2-on-ubuntu-11-10-oneric-ocelot-without-using-rvm/#uninstall) or 2.0 or higher)
