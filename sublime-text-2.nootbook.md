@@ -43,6 +43,10 @@ Runs CSS through Prefixr API.
 | Join lines | Control + j | *Insert shortcut here* |
 | Duplicate line | Control + Shift + d | *Insert shortcut here* |
 | Move line up or down | Control + Shift + Arrow up/down | *Insert shortcut here* |
+| Delete left | Control + Shift + Backspace | *Insert shortcut here* |
+| Delete line | Control + Shift + k | *Insert shortcut here* |
+| Convert Uppercase | Control + k, Control + u  | *Insert shortcut here* |
+| Convert Lowercase | Control + k, Control + l  | *Insert shortcut here* |
 | ~ | ~ | ~ |
 | **File Handling Commands** | **Linux/Windows Keyboard Shortcut** | **Mac Keyboard Shortcut** |
 | Set layout groups in splitview | Alt + Shift + 1-2-3-4-5 | *Insert shortcut here* |
