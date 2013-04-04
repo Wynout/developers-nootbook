@@ -11,8 +11,23 @@ HTML5 Boilerplate helps you build fast, robust, and adaptable web apps or sites.
 
 ## Normalize.css
 [http://necolas.github.com/normalize.css](http://necolas.github.com/normalize.css/)
+
 A modern, HTML5-ready alternative to CSS resets
 Normalize.css makes browsers render all elements more consistently and in line with modern standards. It precisely targets only the styles that need normalizing.
+
+[Table of Contents](TABLE-OF-CONTENTS.md#html--css)
+
+---------------------------
+
+## Sass
+[http://sass-lang.com](http://sass-lang.com/)
+
+Stylesheet language
+
+Sass is a Cascading Style Sheets (CSS) metalanguage. It is a scripting language that is interpreted into CSS. SassScript is the scripting language itself. Sass consists of two syntaxes. The original syntax, called "the indented syntax" uses a syntax similar to Haml.[3] It uses indentation to separate code blocks and newline characters to separate rules. The newer syntax, "SCSS" uses block formatting like that of CSS. It uses braces to denote code blocks and semicolons to separate lines within a block. The indented syntax and SCSS files are traditionally given the extensions .sass and .scss respectively.
+
+* [Screencast](http://net.tutsplus.com/tutorials/tools-and-tips/guard-is-your-best-friend/): automate Sass compilation on file save by using [Guard](https://github.com/guard/guard)
+
 
 [Table of Contents](TABLE-OF-CONTENTS.md#html--css)
 
