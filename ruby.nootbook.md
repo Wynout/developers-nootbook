@@ -14,8 +14,8 @@ Guard is a command line tool to easily handle events on file system modification
 * Automatic Sass compilation on update
 * Automatic CoffeeScript compilation on updaye
 * Live reloading: automatically injecting style into the browser without reloading, on update
-* Javascript concat multiple .js into one file
-* Uglify, minify javascript
+* JavaScript concat multiple .js into one file
+* Uglify, minify JavaScript
 
 ### Installation
 * [net Tuts+ course :: Guard is Your Best Friend](http://net.tutsplus.com/tutorials/tools-and-tips/guard-is-your-best-friend/)
@@ -69,7 +69,7 @@ I fixed this in my Guardfile. I have added a second guard concat for preventing 
 		# CoffeeScript input and output folder
 		guard 'coffeescript', :input => 'coffee', :output => 'js'
 
-		# This will concatenate the javascript files specified in :files to js/concatenated.js
+		# This will concatenate the JavaScript files specified in :files to js/concatenated.js
 		# The second concat is to prevent uglify to go in a loop, ugly solution, anybody know a better solution?
 		guard :concat, type: "js", files: %w(main module), input_dir: "js", output: "js/concatenated"
 		guard :concat, type: "js", files: %w(main module), input_dir: "js", output: "js/minified"
