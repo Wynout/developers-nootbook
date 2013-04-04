@@ -14,8 +14,8 @@
 	Makes HTTP requests using the selected text as URL + headers. Useful for testing REST APIs from Sublime Text 2 editor.
 
 ### DocBlockr
-	* [YouTube example 1](http://www.youtube.com/watch?v=KzbEt9PcF_w)
-	* [YouTube example 2](http://www.youtube.com/watch?v=WaQk9QZNaOY)
+* [YouTube example 1](http://www.youtube.com/watch?v=KzbEt9PcF_w)
+* [YouTube example 2](http://www.youtube.com/watch?v=WaQk9QZNaOY)
 
 ### Prefixr
 Runs CSS through Prefixr API.
@@ -30,35 +30,25 @@ Runs CSS through Prefixr API.
 
 ## Essential keyboard shortcut commands
 
-### Inline commands
-
 | Description  | Linux/Windows Keyboard Shortcut | Mac Keyboard Shortcut |
 | :------------ | :----------- |  :----------- |
+| **General Commands** | | |
+| Show the Command Palette | Ctrl + Shift + P | *Insert shortcut here* |
+| Show Goto anything | Ctrl + p | *Insert shortcut here* |
+| Switch Project in Window | Control + Alt + p | *Insert shortcut here* |
+| **Inline Commands** | | |
 | Expand selection between brackets [],() | Control + Shift + Space | *Insert shortcut here* |
 | Toggle comment | Control + / | *Insert shortcut here* |
 | Toggle comment block HTML| Control + Shift + / | *Insert shortcut here* |
 | Join lines | Control + j | *Insert shortcut here* |
 | Duplicate line | Control + Shift + d | *Insert shortcut here* |
 | Move line up or down | Control + Shift + Arrow up/down | *Insert shortcut here* |
-
-## General commands
-
-| Description  | Linux/Windows Keyboard Shortcut | Mac Keyboard Shortcut |
-| :------------ | :----------- |  :----------- |
-| Switch Project in Window | Control + Alt + p | *Insert shortcut here* |
-
-## File handling commands
-
-| Description  | Linux/Windows Keyboard Shortcut | Mac Keyboard Shortcut |
-| :------------ | :----------- |  :----------- |
+| **File Handling Commands** | | |
 | Set layout groups in splitview | Alt + Shift + 1-2-3-4-5 | *Insert shortcut here* |
 | Focus layout group in splitview | Control + 1-2-3-4 | *Insert shortcut here* |
 | Move file to group | Control + Shift + 1-2-3-4 | *Insert shortcut here* |
 | Switch next/previous open file in tab | Control + PageUp, Control + PageDown | *Insert shortcut here* |
 | Select open file in tab | Alt + 1-2-3-4-5-6-7-8-9-0 | *Insert shortcut here* |
-
-
-#
 
 > find_under_expand : ctrl+d
 
