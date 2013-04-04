@@ -19,7 +19,6 @@ updating and removing packages for Sublime Text 2.
 It features an automatic upgrader and supports GitHub,
 BitBucket and a full channel/repository system.
 
-----------------------
 
 ### Alignment
 [http://wbond.net/sublime_packages/alignment](http://wbond.net/sublime_packages/alignment)
@@ -121,7 +120,7 @@ This plugin extends the sidebar menu, by adding lots of new and useful features 
 ----------------------
 
 ### Sublime Linter
-[https://github.com/SublimeLinter/SublimeLinter](https://github.com/SublimeLinter/SublimeLinter)
+[https://github.com/SublimeLinter/SublimeLinter]
 
 First off, you need this. This plugin is like a IDE itself, it finds errors in your code as you go. It supports dozens of languages, from PHP to Python, Java, etc..
 This plugin is not only recommend but it should be mandatory.
@@ -133,10 +132,6 @@ This plugin is not only recommend but it should be mandatory.
 
 ### add more here
 
-
-
-http://www.henriquebarroso.com/my-top-10sublime-2-plugins/
-
 ----------------------
 
 ## Essential keyboard shortcut commands
@@ -144,20 +139,20 @@ http://www.henriquebarroso.com/my-top-10sublime-2-plugins/
 | **General Commands** | Linux/Windows Keyboard Shortcut | Mac Keyboard Shortcut |
 | :------------ | :----------- |  :----------- |
 | Show the Command Palette | Ctrl + Shift + P | *Insert shortcut here* |
-| Show Goto anything | Ctrl + p | *Insert shortcut here* |
-| Switch Project in Window | Control + Alt + p | *Insert shortcut here* |
+| Show Goto anything | Ctrl + P | *Insert shortcut here* |
+| Switch Project in Window | Control + Alt + P | *Insert shortcut here* |
 | ~ | ~ | ~ |
 | **Inline Commands** | **Linux/Windows Keyboard Shortcut** | **Mac Keyboard Shortcut** |
 | Expand selection between brackets [],() | Control + Shift + Space | *Insert shortcut here* |
 | Toggle comment | Control + / | *Insert shortcut here* |
 | Toggle comment block HTML| Control + Shift + / | *Insert shortcut here* |
-| Join lines | Control + j | *Insert shortcut here* |
-| Duplicate line | Control + Shift + d | *Insert shortcut here* |
+| Join lines | Control + J | *Insert shortcut here* |
+| Duplicate line | Control + Shift + D | *Insert shortcut here* |
 | Move line up or down | Control + Shift + Arrow up/down | *Insert shortcut here* |
 | Delete left | Control + Shift + Backspace | *Insert shortcut here* |
-| Delete line | Control + Shift + k | *Insert shortcut here* |
-| Convert Uppercase | Control + k, Control + u  | *Insert shortcut here* |
-| Convert Lowercase | Control + k, Control + l  | *Insert shortcut here* |
+| Delete line | Control + Shift + K | *Insert shortcut here* |
+| Convert Uppercase | Control + K, Control + U  | *Insert shortcut here* |
+| Convert Lowercase | Control + K, Control + L  | *Insert shortcut here* |
 | ~ | ~ | ~ |
 | **File Handling Commands** | **Linux/Windows Keyboard Shortcut** | **Mac Keyboard Shortcut** |
 | Set layout groups in splitview | Alt + Shift + 1-2-3-4-5 | *Insert shortcut here* |
