@@ -3,6 +3,7 @@
 ## HTML & CSS
 * [HTML * Boilerplate](html-css.nootbook.md#html5-boilerplate)
 * [Normalize.css](html-css.nootbook.md#normalizecss)
+* [Sass](html-css.nootbook.md#sass)
 * [Bootstrap](html-css.nootbook.md#bootstrap)
 * [WebFont Loader](html-css.nootbook.md#webfont-loader)
 * [formalize](html-css.nootbook.md#formalize)
@@ -34,11 +35,16 @@
 ## Git
 [Common commands](git.common.commands.nootbook.md#git-common-commands)
 
+## Ruby
+* [RubyGems](ruby.nootbook.md#rubygems)
+* [Guard](ruby.nootbook.md#guard)
+
 ## JavaScript Frameworks & Libraries
 * [Google CDN](javascript-libraries.nootbook.md#google-cdn)
 * [cdnjs](javascript-libraries.nootbook.md#cdnjs)
 * [AngularJS](javascript-libraries.nootbook.md#angularjs)
 * [Meteor](javascript-libraries.nootbook.md#meteor)
+* [CoffeeScript](javascript-libraries.nootbook.md#coffeescript)
 * [jQuery](javascript-libraries.nootbook.md#jquery)
 * [jQuery UI](javascript-libraries.nootbook.md#jquery-ui)
 * [Sizzle JS](javascript-libraries.nootbook.md#sizzle-js)
