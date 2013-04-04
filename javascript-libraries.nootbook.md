@@ -38,6 +38,14 @@ Meteor is an open-source platform for building top-quality web apps in a fractio
 
 -------------------------
 
+## CoffeeScript
+
+CoffeeScript is a little language that compiles into JavaScript. Underneath that awkward Java-esque patina, JavaScript has always had a gorgeous heart. CoffeeScript is an attempt to expose the good parts of JavaScript in a simple way.
+
+[Table of Contents](TABLE-OF-CONTENTS.md#javascript-frameworks--libraries)
+
+---------------------------
+
 ## jQuery
 * [tuts+ ::  Hello jQuery](https://tutsplus.com/lesson/hello-jquery/)
 
