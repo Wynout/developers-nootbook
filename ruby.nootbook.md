@@ -28,8 +28,17 @@ Guard is a command line tool to easily handle events on file system modification
 ```sh
 $ sudo gem install guard
 ```
+
 ```sh
-$ sudo gem install ([rb-fsevent](https://github.com/nex3/rb-inotify) for OS X) or ([rb-inotify](https://github.com/nex3/rb-inotify) for Linux) or ([rb-fchange](https://github.com/stereobooster/rb-fchange) for Windows)
+ sudo gem rb-inotify
+ ```
+
+other OS
+* rb-fsevent [for OS X](https://github.com/thibaudgg/rb-fsevent)
+* rb-fchange [for Windows](https://github.com/stereobooster/rb-fchange)
+
+```sh
+$ sudo gem install rb-fsevent or rb-inotify for Linux) or ([rb-fchange]() for Windows)
 ```
 
 ```sh
