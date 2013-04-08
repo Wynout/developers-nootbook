@@ -56,6 +56,8 @@
 * [Prototype](javascript-libraries.nootbook.md#prototype)
 * [script.aculo.us](javascript-libraries.nootbook.md#scriptaculous)
 * [Modernizr](javascript-libraries.nootbook.md#modernizr)
+* [Knockout.js](javascript-libraries.nootbook.md#knockout-js)
+* [Require.js](javascript-libraries.nootbook.md#require-js)
 * [Select[ivizr]](javascript-libraries.nootbook.md#selectivizr)
 * [50 JavaScript libraries for charts and graphs](javascript-libraries.nootbook.md#50-javascript-libraries-for-charts-and-graphs)
 * [Highcharts JS](javascript-libraries.nootbook.md#highcharts-js)

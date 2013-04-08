@@ -147,6 +147,23 @@ Taking advantage of cool new web technologies is great fun, until you have to su
 
 -------------------------
 
+## Knockout.js
+[http://knockoutjs.com](http://knockoutjs.com/)
+
+Simplify dynamix JavaScript Ui's by applying the Model-View-View Model (MVVM) pattern
+
+[Table of Contents](TABLE-OF-CONTENTS.md#javascript-frameworks--libraries)
+
+-------------------------
+
+## Require.js
+
+RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node. Using a modular script loader like RequireJS will improve the speed and quality of your code.
+
+[Table of Contents](TABLE-OF-CONTENTS.md#javascript-frameworks--libraries)
+
+-------------------------
+
 ## Select[ivizr]
 [http://selectivizr.com](http://selectivizr.com/)
 
