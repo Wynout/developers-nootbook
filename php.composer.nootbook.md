@@ -15,6 +15,7 @@ It allows you to declare the dependent libraries your project needs and it will 
 It borrows many ideas from npm and uses basic json files for package definitions.
 Composer packages are generally published on the packagist, but can also be published & installed from other servers
 
+-------------------
 
 ## Install Composer globally
 
@@ -22,12 +23,12 @@ Composer packages are generally published on the packagist, but can also be publ
 $ curl -sS https://getcomposer.org/installer | php
 $ sudo mv composer.phar /usr/local/bin/composer
 ```
-Then , just run `composer` instead of `php composer.phar`
+Then, just run `composer` instead of `php composer.phar`
 
 ## Update a phar install with the latest version
 
 ```sh
-sh $ composer self-update
+$ composer self-update
 ```
 
 [Table of Contents](TABLE-OF-CONTENTS.md#)
@@ -39,7 +40,10 @@ sh $ composer self-update
 * [tuts+ Hands-On: Build a Practical Web Application with Laravel](https://tutsplus.com/course/hands-on-building-a-practical-web-application-with-laravel/)
 * https://tutsplus.com/course/laravel-essentials/
 
+-------------------
 
 ## Word definition list
-
-* The [phar](http://www.php.net/manual/en/intro.phar.php) extension provides a way to put entire PHP applications into a single file called a "phar" (PHP Archive) for easy distribution and installation. In addition to providing this service, the phar extension also provides a file-format abstraction method for creating and manipulating tar and zip files through the PharData class, much as PDO provides a unified interface for accessing different databases. Unlike PDO, which cannot convert between different databases, Phar also can convert between tar, zip and phar file formats with a single line of code.
+### phar
+>The [phar](http://www.php.net/manual/en/intro.phar.php) extension provides a way to put entire PHP applications into a single file called a "phar" (PHP Archive) for easy distribution and installation.
+In addition to providing this service, the phar extension also provides a file-format abstraction method for creating and manipulating tar and zip files through the PharData class, much as PDO provides a unified interface for accessing different databases.
+Unlike PDO, which cannot convert between different databases, Phar also can convert between tar, zip and phar file formats with a single line of code.
