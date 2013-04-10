@@ -20,3 +20,17 @@ CodePen is an app for sharing and playing around with front end code.
 [Table of Contents](TABLE-OF-CONTENTS.md)
 
 ---------------------------
+
+## DevTools Autosave
+
+[Chrome DevTools Autosave](https://chrome.google.com/webstore/detail/devtools-autosave/mlejngncgiocofkcbnnpaieapabmanfl?hl=en)
+
+Saves changes in CSS and JS that was made via Chrome DevTools
+Mentioned on Google I/O 2012: [http://youtu.be/3pxf3Ju2row?t=18m24s
+Screencast: vimeo.com/33765496](http://youtu.be/3pxf3Ju2row?t=18m24s
+Screencast: vimeo.com/33765496)
+
+
+[Table of Contents](TABLE-OF-CONTENTS.md)
+
+---------------------------
