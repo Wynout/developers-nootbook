@@ -12,7 +12,7 @@
 Guard is a command line tool to easily handle events on file system modifications.
 
 * Automatic Sass compilation on update
-* Automatic CoffeeScript compilation on updaye
+* Automatic CoffeeScript compilation on update
 * Live reloading: automatically injecting style into the browser without reloading, on update
 * JavaScript concat multiple .js into one file
 * Uglify, minify JavaScript
@@ -61,7 +61,9 @@ $ sudo gem install guard-concat
 $ sudo gem install guard-uglify
 ```
 
-* Make sure NodeJS is installed with (for example on Ubuntu)
+### Make sure NodeJS is installed
+
+(for example on Ubuntu)
 
 ```sh
 $ sudo apt-get install nodejs
