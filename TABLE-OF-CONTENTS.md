@@ -12,6 +12,9 @@
 * [JS Bin](html-css.nootbook.md#js-bin)
 * [Agave](html-css.nootbook.md#agave)
 
+## PHP Nootbook
+* [Composer](php.composer.nootbook.md#composer)
+
 ## PHP Frameworks
 * [Laravel](php-frameworks.nootbook.md#laravel)
 * [Symphony](php-frameworks.nootbook.md#symphony)

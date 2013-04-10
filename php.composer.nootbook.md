@@ -18,16 +18,17 @@ Composer packages are generally published on the packagist, but can also be publ
 
 ## Install Composer globally
 
-	```sh
-	$ curl -sS https://getcomposer.org/installer | php
-	$ sudo mv composer.phar /usr/local/bin/composer
-	```
-	Then , just run `composer` instead of `php composer.phar`
+```sh
+$ curl -sS https://getcomposer.org/installer | php
+$ sudo mv composer.phar /usr/local/bin/composer
+```
+Then , just run `composer` instead of `php composer.phar`
 
 ## Update a phar install with the latest version
 
-	```sh $ composer self-update```
-
+```sh
+sh $ composer self-update
+```
 
 [Table of Contents](TABLE-OF-CONTENTS.md#)
 
