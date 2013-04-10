@@ -19,6 +19,7 @@ updating and removing packages for Sublime Text 2.
 It features an automatic upgrader and supports GitHub,
 BitBucket and a full channel/repository system.
 
+----------------------
 
 ### Alignment
 [http://wbond.net/sublime_packages/alignment](http://wbond.net/sublime_packages/alignment)

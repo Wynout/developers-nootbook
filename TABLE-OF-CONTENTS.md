@@ -27,6 +27,7 @@
 * [Chrome DevTools](developer-tools.nootbook.md#chrome-devtools)
 * [jsFiddle](developer-tools.nootbook.md#jsfiddle)
 * [CodePen](developer-tools.nootbook.md#codepen)
+* [Chrome DevTools Autosave](developer-tools.nootbook.md#devtools-autosave)
 
 ## E-learning
 * [Overview](e-learning.nootbook.md#e-learning)
@@ -56,8 +57,9 @@
 * [Prototype](javascript-libraries.nootbook.md#prototype)
 * [script.aculo.us](javascript-libraries.nootbook.md#scriptaculous)
 * [Modernizr](javascript-libraries.nootbook.md#modernizr)
-* [Knockout.js](javascript-libraries.nootbook.md#knockout-js)
-* [Require.js](javascript-libraries.nootbook.md#require-js)
+* [Knockout.js](javascript-libraries.nootbook.md#knockoutjs)
+* [Require.js](javascript-libraries.nootbook.md#requirejs)
+* [Underscore](javascript-libraries.nootbook.md#underscore)
 * [Select[ivizr]](javascript-libraries.nootbook.md#selectivizr)
 * [50 JavaScript libraries for charts and graphs](javascript-libraries.nootbook.md#50-javascript-libraries-for-charts-and-graphs)
 * [Highcharts JS](javascript-libraries.nootbook.md#highcharts-js)
