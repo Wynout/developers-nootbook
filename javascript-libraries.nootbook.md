@@ -150,7 +150,7 @@ Taking advantage of cool new web technologies is great fun, until you have to su
 ## Knockout.js
 [http://knockoutjs.com](http://knockoutjs.com/)
 
-Simplify dynamix JavaScript Ui's by applying the Model-View-View Model (MVVM) pattern
+Simplify dynamix JavaScript Ui's by applying the Model-View-View Model (MVVM) pattern.
 
 [Table of Contents](TABLE-OF-CONTENTS.md#javascript-frameworks--libraries)
 
@@ -159,6 +159,17 @@ Simplify dynamix JavaScript Ui's by applying the Model-View-View Model (MVVM) pa
 ## Require.js
 
 RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node. Using a modular script loader like RequireJS will improve the speed and quality of your code.
+
+[Table of Contents](TABLE-OF-CONTENTS.md#javascript-frameworks--libraries)
+
+-------------------------
+
+## Underscore
+[http://underscorejs.org](http://underscorejs.org/)
+
+Underscore is a utility-belt library for JavaScript that provides a lot of the functional programming support that you would expect in Prototype.js (or Ruby), but without extending any of the built-in JavaScript objects. It's the tie to go along with jQuery's tux, and Backbone.js's suspenders.
+
+Underscore provides 80-odd functions that support both the usual functional suspects: map, select, invoke — as well as more specialized helpers: function binding, javascript templating, deep equality testing, and so on. It delegates to built-in functions, if present, so modern browsers will use the native implementations of forEach, map, reduce, filter, every, some and indexOf.
 
 [Table of Contents](TABLE-OF-CONTENTS.md#javascript-frameworks--libraries)
 
