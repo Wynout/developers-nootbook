@@ -7,6 +7,11 @@
 
 ----------------------
 
+## Snippets Scopes List
+[https://gist.github.com/iambibhas/4705378](https://gist.github.com/iambibhas/4705378)
+
+----------------------
+
 ## Essential Plugins
 [source](http://www.henriquebarroso.com/my-top-10sublime-2-plugins/)
 
