@@ -136,8 +136,8 @@ This plugin is not only recommend but it should be mandatory.
 ### Syntax highlighting for Sass and Scss
 [https://github.com/nathos/sass-textmate-bundle](https://github.com/nathos/sass-textmate-bundle)
 
-### add more here
 
+### add more here
 ----------------------
 
 ## Essential keyboard shortcut commands
@@ -155,6 +155,9 @@ This plugin is not only recommend but it should be mandatory.
 | Join lines | Control + J | *Insert shortcut here* |
 | Duplicate line | Control + Shift + D | *Insert shortcut here* |
 | Move line up or down | Control + Shift + Arrow up/down | *Insert shortcut here* |
+| Splitting the Selection into Lines | Control + Shift + l | *Insert shortcut here* |
+| Quick Add Next | Control + D | *Insert shortcut here* |
+| Move Line(s)/Selection Up or Down | Control + Shift Up-Down | *Insert shortcut here* |
 | Delete left | Control + Shift + Backspace | *Insert shortcut here* |
 | Delete line | Control + Shift + K | *Insert shortcut here* |
 | Convert Uppercase | Control + K, Control + U  | *Insert shortcut here* |
