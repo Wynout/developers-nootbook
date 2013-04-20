@@ -9,6 +9,11 @@
 $ sh echo Hello World
 ```
 
+| Normal Font-style | *Italic-style* | **Bold Font-style** |
+| :------------ | :-----------: |  -----------: |
+| Align left | Align Middle | Align Right |
+| ~ | ~ | ~ |
+
 
 ## Generates table of content for markdown files inside github repositories
 
