@@ -155,7 +155,7 @@ This plugin is not only recommend but it should be mandatory.
 | Join lines | Control + J | *Insert shortcut here* |
 | Duplicate line | Control + Shift + D | *Insert shortcut here* |
 | Move line up or down | Control + Shift + Arrow up/down | *Insert shortcut here* |
-| Splitting Selection into Multiple Selections | Control + Shift + l | *Insert shortcut here* |
+| Splitting Selection into Multiple Selections | Control + Shift + L | *Insert shortcut here* |
 | Quick Add Next | Control + D | *Insert shortcut here* |
 | Move Line(s)/Selection Up or Down | Control + Shift Up-Down | *Insert shortcut here* |
 | Delete left | Control + Shift + Backspace | *Insert shortcut here* |
