@@ -114,3 +114,11 @@ Merge any changes fetched into your working files
 
 -------------------------------
 
+## Undo a commit and redo
+
+[source](http://stackoverflow.com/questions/927358/how-to-undo-the-last-git-commit)
+
+>$ git reset --soft HEAD^
+>$ git commit -c ORIG_HEAD
+
+-------------------------------
